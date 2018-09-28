@@ -1,2 +1,2 @@
 # Unit-1-03b
-Calculate the area and perimeter for retangle
+Calculate the area and perimeter for rectangle
